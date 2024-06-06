@@ -25,5 +25,5 @@ This Weather Web-App allows users to check the current weather of their specific
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/weather-web-app.git
+   git clone https://github.com/Koushik00-tech/WeatherAppkk.github.io.gi
    cd weather-web-app
